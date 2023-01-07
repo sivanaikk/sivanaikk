@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3232](https://github.com/kamranahmedse/developer-roadmap/issues/3232) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2. 🗣 Commented on [#3249](https://github.com/kamranahmedse/developer-roadmap/issues/3249) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. 💪 Opened PR [#3232](https://github.com/kamranahmedse/developer-roadmap/pull/3232) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4. 💪 Opened PR [#3225](https://github.com/kamranahmedse/developer-roadmap/pull/3225) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5. ❗️ Opened issue [#316](https://github.com/WeMakeDevs/roadmaps/issues/316) in [WeMakeDevs/roadmaps](https://github.com/WeMakeDevs/roadmaps)
+1. 💪 Opened PR [#3263](https://github.com/kamranahmedse/developer-roadmap/pull/3263) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2. 🗣 Commented on [#3253](https://github.com/kamranahmedse/developer-roadmap/issues/3253) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3. 🗣 Commented on [#3232](https://github.com/kamranahmedse/developer-roadmap/issues/3232) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. 🗣 Commented on [#3249](https://github.com/kamranahmedse/developer-roadmap/issues/3249) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5. 💪 Opened PR [#3232](https://github.com/kamranahmedse/developer-roadmap/pull/3232) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 <!--END_SECTION:activity-->
