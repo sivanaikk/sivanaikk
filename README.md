@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#222](https://github.com/bradmccoydev/mentoring/pull/222) in [bradmccoydev/mentoring](https://github.com/bradmccoydev/mentoring)
-2. 💪 Opened PR [#3263](https://github.com/kamranahmedse/developer-roadmap/pull/3263) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. 🗣 Commented on [#3253](https://github.com/kamranahmedse/developer-roadmap/issues/3253) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4. 🗣 Commented on [#3232](https://github.com/kamranahmedse/developer-roadmap/issues/3232) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5. 🗣 Commented on [#3249](https://github.com/kamranahmedse/developer-roadmap/issues/3249) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1. 🗣 Commented on [#222](https://github.com/bradmccoydev/mentoring/issues/222) in [bradmccoydev/mentoring](https://github.com/bradmccoydev/mentoring)
+2. 💪 Opened PR [#7039](https://github.com/meshery/meshery/pull/7039) in [meshery/meshery](https://github.com/meshery/meshery)
+3. ❌ Closed PR [#1](https://github.com/sivanaikk/meshery/pull/1) in [sivanaikk/meshery](https://github.com/sivanaikk/meshery)
+4. 🗣 Commented on [#7019](https://github.com/meshery/meshery/issues/7019) in [meshery/meshery](https://github.com/meshery/meshery)
+5. 💪 Opened PR [#222](https://github.com/bradmccoydev/mentoring/pull/222) in [bradmccoydev/mentoring](https://github.com/bradmccoydev/mentoring)
 <!--END_SECTION:activity-->
