@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7039](https://github.com/meshery/meshery/issues/7039) in [meshery/meshery](https://github.com/meshery/meshery)
-2. 🗣 Commented on [#222](https://github.com/bradmccoydev/mentoring/issues/222) in [bradmccoydev/mentoring](https://github.com/bradmccoydev/mentoring)
-3. 💪 Opened PR [#7039](https://github.com/meshery/meshery/pull/7039) in [meshery/meshery](https://github.com/meshery/meshery)
-4. ❌ Closed PR [#1](https://github.com/sivanaikk/meshery/pull/1) in [sivanaikk/meshery](https://github.com/sivanaikk/meshery)
-5. 🗣 Commented on [#7019](https://github.com/meshery/meshery/issues/7019) in [meshery/meshery](https://github.com/meshery/meshery)
+1. 🗣 Commented on [#316](https://github.com/WeMakeDevs/roadmaps/issues/316) in [WeMakeDevs/roadmaps](https://github.com/WeMakeDevs/roadmaps)
+2. 🗣 Commented on [#7039](https://github.com/meshery/meshery/issues/7039) in [meshery/meshery](https://github.com/meshery/meshery)
+3. 🗣 Commented on [#222](https://github.com/bradmccoydev/mentoring/issues/222) in [bradmccoydev/mentoring](https://github.com/bradmccoydev/mentoring)
+4. 💪 Opened PR [#7039](https://github.com/meshery/meshery/pull/7039) in [meshery/meshery](https://github.com/meshery/meshery)
+5. ❌ Closed PR [#1](https://github.com/sivanaikk/meshery/pull/1) in [sivanaikk/meshery](https://github.com/sivanaikk/meshery)
 <!--END_SECTION:activity-->
