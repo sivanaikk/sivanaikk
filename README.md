@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/sivanaikk), [LinkedIn](https://LinkedIn.com/sivanaik)
 - ⚡ Fun fact: I do workout!
 
-![github stats](https://github-readme-stats.vercel.app/api?username=sivanaikk&show_icons=true&theme=transparent)
-
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=sivanaikk&theme=react-dark&hide_border=true) -->
 ### :zap: Recent Activity
 
